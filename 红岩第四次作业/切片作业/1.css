@@ -1,0 +1,73 @@
+*{
+	margin: 0 auto;
+}
+.first{
+	background: url(./5_01.png);
+	width: 1400px;
+	height:960px;
+}
+.first1{
+	background-image: url(./23_01.png);
+	z-index: 1;
+	width: 1400px;
+	height: 147px;
+}
+.wenzi{
+	position: relative;
+	margin-top: 30px;
+	margin-left: 100px;
+
+
+}
+.first2{
+	cursor: pointer;
+	list-style: none;
+
+}
+.first3{
+
+	position: relative;
+	width: 550px;
+	height: 30px;
+	margin-top: -30px;
+}
+.z{
+	
+	float: left;
+	width: 100px;
+	height: 30px;
+}
+.first4{
+	float: right;
+	width: 400px;
+	height: 147px;
+	margin-top: -30px;
+	border-left: 1px solid;
+}
+.second{
+	width: 1400px;
+	height: 813px;
+}
+.third{
+	width: 1400px;
+	height: 653px;
+	float: left;
+}
+.finnal{
+	width: 1400px;
+	height: 500px;
+	background: white;
+    margin-top: 650px;
+}
+.zx{
+	list-style: none;
+	margin-top: 50px;
+
+}
+.zz{
+	float: left;
+	width: 130px;
+	padding-right: 100px;
+	padding-left: 100px;
+    
+}
